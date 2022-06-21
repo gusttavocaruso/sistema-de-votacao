@@ -7,7 +7,7 @@ Ao clonar o repositório para sua máquina, instale as dependencias através do 
 ---
 </div>
 
-## Requisitos do desafio:
+## Requisitos do Projeto:
 
 Por conta de seus conhecimentos em Java, você recebeu uma demanda para desenvolver um sistema de votação eletrônico. A ideia é que esse sistema permita o cadastro das pessoas candidatas, o cadastro das pessoas eleitoras, a realização do processo de votação e a consulta do resultado tanto parcial quanto final da votação.
 
